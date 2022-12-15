@@ -1,0 +1,2 @@
+Number of elements of setA encoded: 1000
+Number of elements of setB encoded: 14
